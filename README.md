@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+It's Murat. 
+
+I am a lecturer at TOBB ETU University. 
+
+I am interested in Radio Frequency (RF) Digital Signal Processing (DSP). 
+
+I teach Communication Systems using Software Defined Radios (SDR). 
+
+Want to learn more? Check [ELE361L](https://ele361l.github.io) course webpage. 
+
 <!--
 **murat-sever/murat-sever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
